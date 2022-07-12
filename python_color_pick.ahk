@@ -6,8 +6,8 @@ outt := 0
 x := 0
 y := 0
 dir    := A_ScriptDir
-script  = python %dir%\pokus.py
-; python %dir%\pokus.py %x% %y%
+script  = python %dir%\colors.py
+; python %dir%\colors.py %x% %y%
 
 
 ; 1 for salvage bot blues
